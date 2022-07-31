@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and AWS
 - 💞️ I’m looking to collaborate on Application and Web development
 - 📫 How to reach me icvc.a10@gmail.com
-- Mail me at  VKV Golaghat Campus, Mission Road, Golaghat, Assam, 785621
+- Mail me at  8-3-209/9 Venkatagiri, Hyderabad Telangana 500045
 
 
 <!---
